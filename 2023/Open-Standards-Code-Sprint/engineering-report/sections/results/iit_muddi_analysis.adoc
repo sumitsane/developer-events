@@ -11,13 +11,13 @@ image::images/fme_iit_muddi.png[]
 
 Another observation made during the review of the datasets was that some of the data was three-dimensional (3D). Part of the challenge therefore was whether the sprint participants could identify commonality between the MUDDI schemas and those of the synthetic datasets that had been supplied to represent data from gas and electricity providers.
 
-Once the data has been converted to JSON, a similarity comparison was conducted. <<img_iit_muddi_gas>> shows such a similarity comparison across synthetic data representing data from gas providers.
+Once the data has been converted to JSON, a similarity comparison was conducted and a tool for authomated Schema mapping using the JSON files was done. <<img_iit_muddi_gas>> shows such a similarity comparison across synthetic data representing data from gas providers.
 
 [[img_iit_muddi_gas]]
 .Comparison of a sample of feature properties from gas provider data
 image::images/iit_muddi_gas.png[]
 
-A similar comparison was conducted between feature properties of synthetic data representing data from electricity providers. This comparison is illustrated in <<img_iit_muddi_electric>>.
+A similar comparison using automated schema mapping was conducted between feature properties of synthetic data representing data from electricity providers. This comparison is illustrated in <<img_iit_muddi_electric>>.
 
 [[img_iit_muddi_electric]]
 .Comparison of a sample of feature properties from electricity provider data
